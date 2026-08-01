@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# ChromaDB persistence
+chroma_db/
+*.sqlite3
+
+# Data (large files, keep only small samples tracked)
+data/sample_datasets/*.zip
+data/test_documents/*.pdf
+!data/test_documents/.gitkeep
+
+# OS/editor
+.DS_Store
+.vscode/settings.json
+*.log
+
+# Model checkpoints (can get large)
+*.pt
+*.pth
+*.h5
+!intermediate/**/best_model.pt
