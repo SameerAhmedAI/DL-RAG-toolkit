@@ -160,19 +160,3 @@ pytest advanced/tests/test_ingestion.py -v
 ```
 
 ---
-
-## 📄 License
-Not specified in source material — left unspecified rather than assumed.
-
----
-
-## Additional Notes (outside standard template)
-
-The following sections exist in the source README and don't map onto the standard CaseTrack shape (no API, no security layer, no DB) but are real, substantive project content — kept here rather than dropped.
-
-### Hardware Note
-All models were trained on **CPU only** — no GPU was available. This shaped dataset sizing (FashionMNIST and CIFAR-10 were subsetted) and epoch counts throughout. Every tradeoff from this constraint is documented explicitly in the technical report rather than hidden.
-
-### Challenges Worth Knowing About
-1. **A real RAG bug**: follow-up questions initially failed because retrieval ran before conversation history could resolve pronouns ("how tall is it?"). Fixed with a query-rewriting step. See Section 9.3 of the report.
-2. **Two Git large-file incidents**: downloaded datasets (CIFAR-10, FashionMNIST) got committed and blocked pushes twice — once from an incomplete `.gitignore`, once from a fix that was shown but never saved. Both are documented honestly in Section 10.3, including the repeat.
