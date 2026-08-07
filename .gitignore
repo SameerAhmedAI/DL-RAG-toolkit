@@ -24,7 +24,6 @@ data/sample_datasets/*.zip
 data/sample_datasets/*.tar.gz
 data/sample_datasets/**/*
 !data/sample_datasets/.gitkeep
-data/test_documents/*.pdf
 !data/test_documents/.gitkeep
 data/*.pt
 
