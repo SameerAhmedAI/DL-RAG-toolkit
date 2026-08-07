@@ -1,0 +1,21 @@
+Renewable Energy Overview
+
+Renewable energy comes from natural sources that are replenished faster than they are consumed. The main types are solar, wind, hydroelectric, geothermal, and biomass energy.
+
+Solar Energy
+Solar panels convert sunlight directly into electricity using photovoltaic cells. Global solar capacity has grown rapidly over the past decade, driven by falling panel costs and improved efficiency. As of recent estimates, solar accounts for a significant and growing share of new electricity generation capacity added worldwide each year.
+
+Wind Energy
+Wind turbines convert kinetic energy from moving air into electricity. Offshore wind farms can generate more power than onshore installations due to stronger, more consistent wind speeds over open water, though they are more expensive to build and maintain.
+
+Hydroelectric Power
+Hydroelectric dams generate electricity by using flowing water to spin turbines. It remains one of the largest sources of renewable electricity globally, though new large-scale hydro projects face increasing environmental and social concerns.
+
+Geothermal Energy
+Geothermal plants tap heat from the earth's interior, typically in regions with volcanic or tectonic activity. It provides consistent baseload power, unlike solar and wind, which are intermittent.
+
+Challenges
+The main challenges facing renewable energy adoption are storage (batteries to smooth out intermittent supply), grid infrastructure upgrades, and the upfront capital costs of transitioning away from fossil fuel infrastructure. Battery storage costs have fallen significantly, which is expected to accelerate renewable adoption further.
+
+Conclusion
+Renewable energy sources are expected to make up an increasing share of global electricity generation over the coming decades as costs continue to decline and storage technology improves.
