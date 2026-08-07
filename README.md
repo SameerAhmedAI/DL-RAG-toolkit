@@ -57,6 +57,19 @@ Additional diagrams (architecture, full request lifecycle, and application state
 
 ---
 
+### Demo
+
+**Grounded, cited answer:**
+![Grounded question with source citation](./docs/screenshots/03_grounded_question.png)
+
+**Follow-up question resolved via query rewriting:**
+![Follow-up question correctly resolved](./docs/screenshots/04_followup_question.png)
+
+**Anti-hallucination fallback on out-of-scope questions:**
+![Fallback message for unrelated question](./docs/screenshots/05_fallback_no_hallucination.png)
+
+---
+
 ## 🛠️ Technology Stack
 
 ### Deep Learning (Intermediate Level)
